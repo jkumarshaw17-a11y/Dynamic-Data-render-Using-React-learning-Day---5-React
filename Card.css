@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+
+}
+
+.con{
+    display: flex;
+    justify-content: center;
+}
+
+
+.Main{
+    text-align: center;
+    border: 2px solid white;
+    height: 500px;
+    width: 320px;
+    border-radius: 50px;
+}
+
+.Main img{
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+
+.Main h1{
+    font-size: 18px;
+}
+
+.Main h2{
+    font-size: 18px;
+}
